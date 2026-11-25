@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Llama 3](https://img.shields.io/badge/Llama_3-Local_Deployment-0466C8?style=for-the-badge&logo=meta&logoColor=white)
-![Privacy First](https://img.shields.io/badge/Data_Governance-Privacy_First-4CAF50?style=for-the-badge)
 
 <p align="center">
   <img src="docs/Interfaz.png" alt="Interfaz de Nira AI Instructor" width="800">
@@ -16,7 +15,6 @@
 ## 📌 Visión General
 **Nira** es una aplicación impulsada por Inteligencia Artificial diseñada para simular entrevistas de estrés de alta exigencia. A diferencia de un chatbot tradicional, Nira analiza en tiempo real las respuestas y biometría del usuario para generar interacciones dinámicas, evaluando tanto la capacidad técnica como el manejo de la presión.
 
-Este proyecto fue construido con un fuerte enfoque en la **Privacidad de los Datos**, ejecutando los modelos de lenguaje (Llama 3) de manera completamente local para asegurar que la información biométrica y personal del usuario nunca salga de su entorno.
 
 ## ✨ Características Principales
 * **Análisis Biométrico y Microexpresiones:** Procesamiento de datos en tiempo real para adaptar la actitud del entrevistador según el nivel de estrés detectado.
